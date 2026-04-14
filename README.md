@@ -1,2 +1,2 @@
 # example01
-练习
+python的日常练习
