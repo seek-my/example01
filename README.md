@@ -1,2 +1,8 @@
 # example01
 python的日常练习
+example01是一个猜数字的游戏
+example02是一个模拟计数器的例子
+example03是一个对学生的增删改查
+example04是一个单位的转换
+example05是一个模拟彩票号码生成的例子
+example06是一个倒计时
